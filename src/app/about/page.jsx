@@ -20,7 +20,7 @@ const About = () => {
         </div>
         <div className="lg:px-14 px-6 lg:text-center text-justify">
           <p>
-            KROT health has been in business for decades and has successful
+            KROY health has been in business for decades and has successful
             supplied over 100 medical equipments to various hospitals and
             medical centers both within and out of the States. We all have our
             own unique idea of what it means to live fully, but there&apos;s one
